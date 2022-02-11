@@ -17,7 +17,7 @@ class Student{
 	}
 }
 
-public class Main9 {
+public class Main09 {
 	public static void main(String[] args) {
 		HashMap<String, Student> dept = new HashMap<String,Student>();
 		Scanner s = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.*;
 // ArrayList연습
-public class Main2 {
+public class Main02 {
 
 	public static void main(String[] args) {
 		ArrayList<String> array = new ArrayList<String>();

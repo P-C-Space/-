@@ -10,7 +10,7 @@ class HV{
 		return temp;
 	}
 }
-public class Main7 {
+public class Main07 {
 	
 	public static void main(String[] args)
 	{

@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main3 {
+public class Main03 {
 
 	public static void main(String[] args) {
 		HashMap<String,Integer>nations =new HashMap<String,Integer>();

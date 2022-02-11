@@ -30,7 +30,7 @@ class Line extends GraphicObject{
 		System.out.println(x + ", " + y +" -> " + w + ", " + h + "의 선");
 	}
 }
-public class GraphicEditor {
+public class Main06 {
 	Vector<GraphicObject> v= new Vector<GraphicObject>();
 	
 	void add(GraphicObject ob) {
@@ -44,7 +44,7 @@ public class GraphicEditor {
 	}
 	
 	public static void main(String[] args) {
-		GraphicEditor g = new GraphicEditor();
+		Main06 g = new Main06();
 		g.add(new Rect(2,2,3,4)); // (2,2)에서 3x4짜리 사각형
 		g.add(new Line(3,3,8,8)); // (3,3)에서 8x8의 사각형 내의 대각선 직선
 		g.add(new Line(2,5,6,6)); // (2,5)에서 6x6의 사각형 내의 대각선 직선

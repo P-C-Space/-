@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Iterator;
-public class Main4 {
+public class Main04 {
 	public static void main(String[] args) {
 		ArrayList<Double> a = new ArrayList<Double>();
 		for(int i = 0;i<20;i++) {
@@ -17,4 +17,4 @@ public class Main4 {
 
 	}
 
-}   
+}
